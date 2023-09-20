@@ -15,6 +15,7 @@
     "react-native": "0.72.4",
     "react-native-blob-util": "^0.19.1",
     "react-native-pdf": "^6.7.1",
+    "react-native-pspdfkit": "github:PSPDFKit/react-native",
     "react-native-signature-canvas": "^4.6.1",
     "react-native-sketch-canvas": "^1.0.103",
     "react-native-webview": "^13.6.0"
